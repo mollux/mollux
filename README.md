@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I’m Mattias 👋
 
-<!--
-**mollux/mollux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a product & solution architect and hands-on engineer based in Ghent, Belgium.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like building systems that stay reliable over time: from application code to infrastructure, automation, and AI-assisted workflows.  
+
+
+What gives me energy most is enabling others to understand, build, and own their solutions.
+
+Outside work, I spend a lot of time on open source, homelab experiments, and home automation.
+
+- Blog: https://mollux.dev
